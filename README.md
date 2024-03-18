@@ -16,7 +16,7 @@
     </a>
 </div>
 
-ACOP is an acronym from _**A**niLibria **c**ache **o**verload **p**protector.
+ACOP is an acronym from _**A**niLibria **c**ache **o**verload **p**protector_.
 
 ACOP helps to provide high-quality media content with high stability and minimal latency. Every minute it serves about 100 thousand requests from 10 thousand people who loves anime!
 
