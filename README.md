@@ -1,6 +1,6 @@
 # ACOP
 
-[![Release Build Status](https://github.com/MindHunter86/acop/actions/workflows/acop-code-builder.yml/badge.svg?event=release)](https://github.com/MindHunter86/acop/actions/workflows/acop-code-builder.yml)
+[![Release Build Status](https://github.com/MindHunter86/acop/actions/workflows/golang-builder.yml/badge.svg?event=release)](https://github.com/MindHunter86/acop/actions/workflows/golang-builder.yml)
 [![CodeQL Status](https://github.com/MindHunter86/acop/actions/workflows/codeql.yml/badge.svg)](https://github.com/MindHunter86/acop/actions/workflows/codeql.yml)
 [![GoDoc](https://godoc.org/github.com/Mindhunter86/acop?status.svg)](https://godoc.org/github.com/Mindhunter86/acop)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Mindhunter86/acop)](https://goreportcard.com/report/github.com/Mindhunter86/acop)
